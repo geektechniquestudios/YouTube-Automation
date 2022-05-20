@@ -1,4 +1,4 @@
-# youtube-automator
+# Youtube Automator
 A collection of programs designed to create and streamline content for any number of youtube channels. The intent behind the software here is to fully automate the process of video production.
 
 ### Disclaimer
