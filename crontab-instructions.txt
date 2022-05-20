@@ -1,0 +1,8 @@
+
+PATH=/bin:/usr/bin:/usr/local/bin
+
+@reboot serve -s ./react-client/build
+@reboot sleep 30 && java -jar vid-uploader-0.8.4.jar
+@reboot sleep 45 && java -jar notification-service-0.0.2.jar
+@reboot sleep 60 && java -jar knope-0.0.2.jar
+@reboot rclone mount videos: /mnt/ --allow-non-empty

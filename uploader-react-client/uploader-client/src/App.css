@@ -1,0 +1,71 @@
+
+.vid-button-group {
+  float: right;
+  width: 45%;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.vid-button {
+  width: 100%;
+  /* min-width: 10em; */
+  max-width: 15em;
+}
+
+#text-group {
+  float: left; 
+  width: 55%;
+  padding-right: .5em;
+}
+
+.spinners {
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}
+
+.swal-footer {
+  text-align: center;
+}
+
+.button-text {
+  font-weight: bolder;
+}
+
+.checkbox-part {
+  float: right;
+  width: 10%;
+}
+
+#list-title {
+  color: white;
+  text-align: center;
+  
+  background: rgb(52,58,64);
+  background: linear-gradient(358deg, rgba(52,58,64,0) 66%, rgba(2,117,216,0.3825503355704698) 100%);
+
+  padding-bottom: 6em;
+  padding-top: 0.2em;
+
+  margin-bottom: -5.8em;
+
+  font-weight: 200;
+  font-size: 1.7em;
+}
+
+#container {
+  position: relative;
+  background-color: #343a40;
+
+}
+
+#list-subtitle {
+  text-align: center;
+  color: white;
+  font-size: 0.8em;
+}
+
+#card {
+  margin: 0.2em;
+}

@@ -1,0 +1,344 @@
+{
+  "properties": [
+    {
+      "name": "configurable.dbNumber",
+      "type": "java.lang.Integer",
+      "description": "Description for configurable.dbNumber."
+    },
+    {
+      "name": "configurable.category",
+      "type": "java.lang.String",
+      "description": "Description for configurable.category."
+    },
+    {
+      "name": "configurable.client-secrets",
+      "type": "java.lang.String",
+      "description": "Description for configurable.client-secrets."
+    },
+    {
+      "name": "configurable.credentials-file",
+      "type": "java.lang.String",
+      "description": "Description for configurable.credentials-file."
+    },
+    {
+      "name": "64-squares.enabled",
+      "type": "java.lang.String",
+      "description": "Description for 64-squares.enabled."
+    },
+    {
+      "name": "alien-h2o.enabled",
+      "type": "java.lang.String",
+      "description": "Description for alien-h2o.enabled."
+    },
+    {
+      "name": "amethyst-sunset.enabled",
+      "type": "java.lang.String",
+      "description": "Description for amethyst-sunset.enabled."
+    },
+    {
+      "name": "any-old-thing.enabled",
+      "type": "java.lang.String",
+      "description": "Description for any-old-thing.enabled."
+    },
+    {
+      "name": "audio-anti-venom.enabled",
+      "type": "java.lang.String",
+      "description": "Description for audio-anti-venom.enabled."
+    },
+    {
+      "name": "autumn-twilight.enabled",
+      "type": "java.lang.String",
+      "description": "Description for autumn-twilight.enabled."
+    },
+    {
+      "name": "backgammon-salmon.enabled",
+      "type": "java.lang.String",
+      "description": "Description for backgammon-salmon.enabled."
+    },
+    {
+      "name": "bass-heartbeat.enabled",
+      "type": "java.lang.String",
+      "description": "Description for bass-heartbeat.enabled."
+    },
+    {
+      "name": "big-pointy-teeth.enabled",
+      "type": "java.lang.String",
+      "description": "Description for big-pointy-teeth.enabled."
+    },
+    {
+      "name": "blazing-glory.enabled",
+      "type": "java.lang.String",
+      "description": "Description for blazing-glory.enabled."
+    },
+    {
+      "name": "breathless-love.enabled",
+      "type": "java.lang.String",
+      "description": "Description for breathless-love.enabled."
+    },
+    {
+      "name": "cacti-armor.enabled",
+      "type": "java.lang.String",
+      "description": "Description for cacti-armor.enabled."
+    },
+    {
+      "name": "configurable.upload-cron",
+      "type": "java.lang.String",
+      "description": "Description for configurable.upload-cron."
+    },
+    {
+      "name": "candlelit-mood.enabled",
+      "type": "java.lang.String",
+      "description": "Description for candlelit-mood.enabled."
+    },
+    {
+      "name": "chess-flix.enabled",
+      "type": "java.lang.String",
+      "description": "Description for chess-flix.enabled."
+    },
+    {
+      "name": "chess-after-dark.enabled",
+      "type": "java.lang.String",
+      "description": "Description for chess-after-dark.enabled."
+    },
+    {
+      "name": "citrus-sky.enabled",
+      "type": "java.lang.String",
+      "description": "Description for citrus-sky.enabled."
+    },
+    {
+      "name": "comfy-couch.enabled",
+      "type": "java.lang.String",
+      "description": "Description for comfy-couch.enabled."
+    },
+    {
+      "name": "crossing-over.enabled",
+      "type": "java.lang.String",
+      "description": "Description for crossing-over.enabled."
+    },
+    {
+      "name": "crushing-opponents.enabled",
+      "type": "java.lang.String",
+      "description": "Description for crushing-opponents.enabled."
+    },
+    {
+      "name": "curated-battles.enabled",
+      "type": "java.lang.String",
+      "description": "Description for curated-battles.enabled."
+    },
+    {
+      "name": "drippy-hippy.enabled",
+      "type": "java.lang.String",
+      "description": "Description for drippy-hippy.enabled."
+    },
+    {
+      "name": "epic-contests.enabled",
+      "type": "java.lang.String",
+      "description": "Description for epic-contests.enabled."
+    },
+    {
+      "name": "fellow-othello.enabled",
+      "type": "java.lang.String",
+      "description": "Description for fellow-othello.enabled."
+    },
+    {
+      "name": "final-ignition.enabled",
+      "type": "java.lang.String",
+      "description": "Description for final-ignition.enabled."
+    },
+    {
+      "name": "fire-inside.enabled",
+      "type": "java.lang.String",
+      "description": "Description for fire-inside.enabled."
+    },
+    {
+      "name": "flawless-execution.enabled",
+      "type": "java.lang.String",
+      "description": "Description for flawless-execution.enabled."
+    },
+    {
+      "name": "floating-weightless.enabled",
+      "type": "java.lang.String",
+      "description": "Description for floating-weightless.enabled."
+    },
+    {
+      "name": "fluorescent-heart.enabled",
+      "type": "java.lang.String",
+      "description": "Description for fluorescent-heart.enabled."
+    },
+    {
+      "name": "forest-for-the-trees.enabled",
+      "type": "java.lang.String",
+      "description": "Description for forest-for-the-trees.enabled."
+    },
+    {
+      "name": "go-flix.enabled",
+      "type": "java.lang.String",
+      "description": "Description for go-flix.enabled."
+    },
+    {
+      "name": "gooey-is-better.enabled",
+      "type": "java.lang.String",
+      "description": "Description for gooey-is-better.enabled."
+    },
+    {
+      "name": "human-tank.enabled",
+      "type": "java.lang.String",
+      "description": "Description for human-tank.enabled."
+    },
+    {
+      "name": "in-the-rain.enabled",
+      "type": "java.lang.String",
+      "description": "Description for in-the-rain.enabled."
+    },
+    {
+      "name": "in-the-sun.enabled",
+      "type": "java.lang.String",
+      "description": "Description for in-the-sun.enabled."
+    },
+    {
+      "name": "killer-instinct-battle.enabled",
+      "type": "java.lang.String",
+      "description": "Description for killer-instinct-battle.enabled."
+    },
+    {
+      "name": "lets-fight.enabled",
+      "type": "java.lang.String",
+      "description": "Description for lets-fight.enabled."
+    },
+    {
+      "name": "lets-play.enabled",
+      "type": "java.lang.String",
+      "description": "Description for lets-play.enabled."
+    },
+    {
+      "name": "mortal-kombat-forever.enabled",
+      "type": "java.lang.String",
+      "description": "Description for mortal-kombat-forever.enabled."
+    },
+    {
+      "name": "moves-ahead.enabled",
+      "type": "java.lang.String",
+      "description": "Description for moves-ahead.enabled."
+    },
+    {
+      "name": "platform-sprint.enabled",
+      "type": "java.lang.String",
+      "description": "Description for platform-sprint.enabled."
+    },
+    {
+      "name": "ready-set-win.enabled",
+      "type": "java.lang.String",
+      "description": "Description for ready-set-win.enabled."
+    },
+    {
+      "name": "renju-flix.enabled",
+      "type": "java.lang.String",
+      "description": "Description for renju-flix.enabled."
+    },
+    {
+      "name": "renju-rabbit.enabled",
+      "type": "java.lang.String",
+      "description": "Description for renju-rabbit.enabled."
+    },
+    {
+      "name": "robo-skin.enabled",
+      "type": "java.lang.String",
+      "description": "Description for robo-skin.enabled."
+    },
+    {
+      "name": "scrabble-babble.enabled",
+      "type": "java.lang.String",
+      "description": "Description for scrabble-babble.enabled."
+    },
+    {
+      "name": "see-reversi.enabled",
+      "type": "java.lang.String",
+      "description": "Description for see-reversi.enabled."
+    },
+    {
+      "name": "shogi-flix.enabled",
+      "type": "java.lang.String",
+      "description": "Description for shogi-flix.enabled."
+    },
+    {
+      "name": "slipping-away.enabled",
+      "type": "java.lang.String",
+      "description": "Description for slipping-away.enabled."
+    },
+    {
+      "name": "smoking-bubbles.enabled",
+      "type": "java.lang.String",
+      "description": "Description for smoking-bubbles.enabled."
+    },
+    {
+      "name": "street-fighter-forever.enabled",
+      "type": "java.lang.String",
+      "description": "Description for street-fighter-forever.enabled."
+    },
+    {
+      "name": "sublime-sunbeams.enabled",
+      "type": "java.lang.String",
+      "description": "Description for sublime-sunbeams.enabled."
+    },
+    {
+      "name": "surrender-or-die.enabled",
+      "type": "java.lang.String",
+      "description": "Description for surrender-or-die.enabled."
+    },
+    {
+      "name": "the-domino-show.enabled",
+      "type": "java.lang.String",
+      "description": "Description for the-domino-show.enabled."
+    },
+    {
+      "name": "thunderous-attack.enabled",
+      "type": "java.lang.String",
+      "description": "Description for thunderous-attack.enabled."
+    },
+    {
+      "name": "tofu-go-moku.enabled",
+      "type": "java.lang.String",
+      "description": "Description for tofu-go-moku.enabled."
+    },
+    {
+      "name": "torchbearer.enabled",
+      "type": "java.lang.String",
+      "description": "Description for torchbearer.enabled."
+    },
+    {
+      "name": "trip-candy.enabled",
+      "type": "java.lang.String",
+      "description": "Description for trip-candy.enabled."
+    },
+    {
+      "name": "twinkling-light.enabled",
+      "type": "java.lang.String",
+      "description": "Description for twinkling-light.enabled."
+    },
+    {
+      "name": "unstoppable-force.enabled",
+      "type": "java.lang.String",
+      "description": "Description for unstoppable-force.enabled."
+    },
+    {
+      "name": "warrior-bones.enabled",
+      "type": "java.lang.String",
+      "description": "Description for warrior-bones.enabled."
+    },
+    {
+      "name": "wet-noses.enabled",
+      "type": "java.lang.String",
+      "description": "Description for wet-noses.enabled."
+    },
+    {
+      "name": "xiangqi-flix.enabled",
+      "type": "java.lang.String",
+      "description": "Description for xiangqi-flix.enabled."
+    },
+    {
+      "name": "xiangqi-tea.enabled",
+      "type": "java.lang.String",
+      "description": "Description for xiangqi-tea.enabled."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+configurable:
+  upload-cron: "0 1 2/4 * * *"
+
+64-squares:
+  enabled: "true"
+alien-h2o:
+  enabled: "false"
+amethyst-sunset:
+  enabled: "false"
+any-old-thing:
+  enabled: "false"
+audio-anti-venom:
+  enabled: "false"
+autumn-twilight:
+  enabled: "false"
+backgammon-salmon:
+  enabled: "true"
+bass-heartbeat:
+  enabled: "false"
+big-pointy-teeth:
+  enabled: "false"
+blazing-glory:
+  enabled: "false"
+breathless-love:
+  enabled: "false"
+cacti-armor:
+  enabled: "false"
+candlelit-mood:
+  enabled: "false"
+chess-flix:
+  enabled: "true"
+chess-after-dark:
+  enabled: "true"
+citrus-sky:
+  enabled: "false"
+comfy-couch:
+  enabled: "false"
+crossing-over:
+  enabled: "false"
+crushing-opponents:
+  enabled: "false"
+curated-battles:
+  enabled: "false"
+drippy-hippy:
+  enabled: "false"
+epic-contests:
+  enabled: "false"
+fellow-othello:
+  enabled: "false"
+final-ignition:
+  enabled: "false"
+fire-inside:
+  enabled: "false"
+flawless-execution:
+  enabled: "false"
+floating-weightless:
+  enabled: "false"
+fluorescent-heart:
+  enabled: "false"
+forest-for-the-trees:
+  enabled: "false"
+go-flix:
+  enabled: "true"
+gooey-is-better:
+  enabled: "false"
+human-tank:
+  enabled: "false"
+in-the-rain:
+  enabled: "false"
+in-the-sun:
+  enabled: "false"
+killer-instinct-battle:
+  enabled: "false"
+lets-fight:
+  enabled: "false"
+lets-play:
+  enabled: "false"
+mortal-kombat-forever:
+  enabled: "false"
+moves-ahead:
+  enabled: "false"
+platform-sprint:
+  enabled: "false"
+ready-set-win:
+  enabled: "false"
+renju-flix:
+  enabled: "false"
+renju-rabbit:
+  enabled: "false"
+robo-skin:
+  enabled: "false"
+scrabble-babble:
+  enabled: "false"
+see-reversi:
+  enabled: "false"
+shogi-flix:
+  enabled: "false"
+slipping-away:
+  enabled: "false"
+smoking-bubbles:
+  enabled: "false"
+street-fighter-forever:
+  enabled: "false"
+sublime-sunbeams:
+  enabled: "false"
+surrender-or-die:
+  enabled: "false"
+the-domino-show:
+  enabled: "false"
+thunderous-attack:
+  enabled: "false"
+tofu-go-moku:
+  enabled: "false"
+torchbearer:
+  enabled: "false"
+trip-candy:
+  enabled: "false"
+twinkling-light:
+  enabled: "false"
+unstoppable-force:
+  enabled: "false"
+warrior-bones:
+  enabled: "false"
+wet-noses:
+  enabled: "false"
+xiangqi-flix:
+  enabled: "false"
+xiangqi-tea:
+  enabled: "false"

@@ -1,0 +1,10 @@
+CairoSVG==2.4.2
+moviepy==1.0.3 #  1.0.1 introduced bugs
+requests==2.24.0
+redis==3.5.3
+imageio==2.9.0
+python-chess==1.1.0
+
+
+# To get this to run on windows, you need to follow this
+# https://weasyprint.readthedocs.io/en/stable/install.html#gtk64installer

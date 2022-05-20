@@ -1,0 +1,17 @@
+# trip candy
+---
+# decide on language
+	# 
+# find a way to make videos
+	# gan neural network <- probably
+# figure out metadata scheme
+	# name possibilities
+		# "landscapes 1 , landscapes 2, etc"
+		# "trip candy # whatever num"
+		# "AI naming?"
+		# 
+	# description
+		#
+# send to video-uploader 
+# test
+# picsum.photos for images

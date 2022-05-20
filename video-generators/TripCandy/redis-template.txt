@@ -1,0 +1,4 @@
+# note : using db4
+# best speed ratio has been 4 seeds per 1200 frames @ 60fps => 20 seconds of video
+
+hmset trip-candy colab-url "https://colab.research.google.com/drive/1_v5Dy_L-nlPjqUsKJZfjSnOlcwPY4b0w#scrollTo=BmFy4ZGLRNxE" description "Enjoy an ongoing art project that pulls from cutting edge AI. The technology's used are StyleGAN2 and video2x, both available on github." pkl "trypophobia-1024.pkl" multiplier 4 frames 1200 truncation-psi 0.3 video-number 0 title "AI Trip - Art made with StyleGAN2" keywords "lsd, dmt, trippy, kaleidoscope, psychedelic" seed 0 seed-spacing 4 category "Film & Animation" playlist "Infinite Trip"

@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "isOnboard",
+      "type": "java.lang.String",
+      "description": "Description for isOnboard."
+    }
+  ]
+}
