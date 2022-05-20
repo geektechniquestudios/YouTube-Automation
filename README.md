@@ -13,6 +13,8 @@ A quick rundown of each directory:
 - vid uploader service is a spring boot server that accepts incoming videos, ReST calls about the videos, and provides data to the uploader react client.
 - video generators is a folder containing all the video generators I've used so far. You can use them as a reference point for getting started.
 
+[![](uploader.png)](#)
+
 This was built to run on a raspberry pi running at 10.0.0.20 in a local network. The basic idea is that you generate a video with your powerful desktop or laptop and send it to a server on the pi. That server uploads videos 5x daily to each channel you make. The way you make the video is up to you. There's also a frontend React client that runs on port 5000 that lets you modify video metadata, like the title, or even upload out of order manually. There are examples in the video generators folder for how to structure the application. The most successful channel is by far [ChessFlix](https://www.youtube.com/channel/UCLlg7famg7h-6PRsMODg3_g), with close to 2200 subscribers and 670k views. My personal favorite though is [TripCandy](https://www.youtube.com/channel/UCWoIlr_HTioFwxeES1vcZSg). I used Generative Adversarial Networks (GANs) to generate these insanely psychedelic videos, but unfortunately, it just took way too much compute power to do this constantly, so there are only a few videos. [Goflix](https://www.youtube.com/channel/UC8SpM2khnSqdF0K1OuevSTw) is another example of a channel that shows games of Go. There's also a ChessFlix clone called [ChessAfterDark](https://www.youtube.com/channel/UCSpKQBmPUm-eqJtts8cUPKA).
 
 If you want to use this software, you'll need to get the vid-uploader-service working by installing the maven dependencies. Then you'll want to create a file in the folder `vid-uploader-service\src\main\java\com\geektechnique\viduploader\controller\channels` and call it the name of your channel. 
@@ -62,7 +64,7 @@ public class $64Squares extends BaseVideoController {
 
 Then go to the application.yml file and enable the channel you just made. I have chosen to leave all of my channels here for reference. You can delete the entire folder and just include what you need. You'll also need Redis running on the raspberry pi. The provided crontab will handle starting of the server on boot. You can add it to your pi by running the command `contab -e` and pasting the contents of crontab-instructions.txt. This repo is configured to use Rclone to virtually mount a google drive folder to the pi; you'll need to set that up as well, but you could easily use a normal directory. This folder holds the videos to be uploaded. You'll also want to ensure you create your own `id_rsa` and `known hosts` to scp to the pi and replace the provided one. You'll need this for your video generator to be able to send videos without entering a password.
 
-After restarting the pi, You can visit 10.0.0.20:5000 to use the frontend webpage to control uploading and see data about the state of your uploads.
+After restarting the pi, You can visit `10.0.0.20:5000` to use the frontend webpage to control uploading and see data about the state of your uploads.
 
 
 ###### Please don't hesitate to open an issue. This isn't easy or very polished because who knows if anyone will use it. If you think this could help you, I'll make it more accessible.
