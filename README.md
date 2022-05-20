@@ -1,11 +1,12 @@
 # Youtube Automator
 A collection of programs designed to create and streamline content for any number of youtube channels. The intent behind the software here is to fully automate the process of video production.
 
+[Watch a video about it](https://www.youtube.com/watch?v=AjIRlGG11BY)
+
 ### Disclaimer
 When I first made this, I never intended to make it open source, so there's some painfully hardcoded stuff in here along with a lot of nonsense cruft. You may have some difficulty getting things to work. That said, if anyone's interested in getting this to work, I'll help. Open an issue when you get stuck.
 
 ### How does it work?
-
 A quick rundown of each directory: 
 - knope is an actuator service that ensures all other services are operational.
 - notification service is there to text me if any service goes down. If you want this to work for you, you will need a Twilio account.
