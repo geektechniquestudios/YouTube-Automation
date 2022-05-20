@@ -19,8 +19,8 @@ If you want to use this software, you'll need to get the vid-uploader-service wo
 
 It should look like this. All you need to add are the 3 fields for the channel name and credentials to upload.
 
-java
-```
+
+```java
 package com.geektechnique.viduploader.controller.channels;
 
 import com.geektechnique.viduploader.config.RedisConfig;
